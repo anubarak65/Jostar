@@ -3,7 +3,7 @@
 
 
 <asp:Content ContentPlaceHolderID="head" runat="server">
-    <!-- Modal -->
+    <%--<!-- Modal -->
     <div id="myModal" class="modal fade in" role="dialog">
         <div class="modal-dialog">
             <!-- Modal Content -->
@@ -41,16 +41,16 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>--%>
     <!-- Landing Page -->
     <div class="intro-header">
         <div class="container">
             <div class="row">
                 <div class="intro-message col-sm-6">
-                    <h1>Bootstrap3</h1>
-                    <h2>Templates
+                    <h1>خودشناخت</h1>
+                    <h2>آزمون
                     </h2>
-                    <h3>for Dot.Net Developers</h3>
+                    <h3>روانشناسی‌ برای عموم</h3>
                     <hr class="intro-divider">
                     <ul class="list-inline intro-social-buttons">
                         <li><a href="https://twitter.com/" class="btn btn-success btn-lg"><i class="fa fa-twitter fa-fw"></i><span class="network-name">Twitter</span></a> </li>
@@ -62,107 +62,7 @@
             </div>
         </div>
     </div>
-    <!-- Start Our Services -->
-    <div id="our-services">
-        <div class="container padding-top padding-bottom">
-            <div class="row section-title text-center">
-                <div class="col-sm-8 col-sm-offset-2">
-                    <h1>
-                        <span>Our</span> Services</h1>
-                    <p>
-                        There is a saying “Time and tide waits for none”. The saying is indeed true. Time
-                        waits for none. It comes and goes. Time is absolutely unbound able. Neither money
-                        nor position can buy it. Nothing on earth can subdue or conquer it.
-                    </p>
-                </div>
-            </div>
-            <div class="row text-center">
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-desktop"></i>
-                        <h2>Responsive Layout</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-bell"></i>
-                        <h2>Clean Design</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-coffee"></i>
-                        <h2>Great Support</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-bug"></i>
-                        <h2>Good Features</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-copyright"></i>
-                        <h2>Copywriting</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-power-off"></i>
-                        <h2>Web design</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-adjust"></i>
-                        <h2>Programming</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 service">
-                    <div class="service-content">
-                        <i class="fa fa-briefcase"></i>
-                        <h2>Marketing &amp; PR</h2>
-                        <p>
-                            The most remarkable feature of time is its preciousness. Its value is unfathomable
-                            and its power is inestimable.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="height">
-        </div>
-    </div>
-    <!-- /# Our Services -->
+   
     <!-- Slider -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->

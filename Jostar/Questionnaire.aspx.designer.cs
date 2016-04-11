@@ -10,6 +10,6 @@
 namespace Jostar {
     
     
-    public partial class HomePage {
+    public partial class Questionnaire {
     }
 }
