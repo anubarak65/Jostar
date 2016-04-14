@@ -10,8 +10,9 @@
     <link href="css/custom.css" rel="stylesheet" type="text/css" />
     <link rel="Shortcut Icon" href="images/favicon.ico" />
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
-        rel="stylesheet" type="text/css" />
+    <link href="css/font-awesome.css" rel="stylesheet" type="text/css" />
+   <%-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />--%>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -73,8 +74,10 @@
                             <div class="footer-widget text-widget">
                                 <a href="index.html" class="footer-logo">
                                     <img src="images/logo.png" class="img-responsive" /></a>
-                                <p>A web template system uses a template processor to combine web templates to form finished web pages, possibly using some data source to customize the pages or present a large amount of content on similar-looking pages.</p>
-                                <ul class="social list-inline">
+                                <p>
+                                    A web template system uses a template processor to combine web templates to form finished web pages, possibly using some data source to customize the pages or present a large amount of content on similar-looking pages.
+                                </p>
+                                    <ul class="social list-inline">
                                     <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
